@@ -1,7 +1,7 @@
 const  XBOT = 'Bintang664'; // Nama Bot Whatsapp
 const instagram = 'https://instagram.com/bintang.775'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6281351845561'; // Nomor whatsapplu cok
-const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
+const aktif = 'Kalo Sibuk'; // Kapan bot lu aktif
 const groupwa = 'comming soon'; // OFFICIAL GRUP LU 1
 const youtube = 'Gak punya'; 
 const qrcode = require("qrcode-terminal");
